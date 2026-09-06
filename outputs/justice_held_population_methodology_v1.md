@@ -6,7 +6,7 @@ Walk Forward Research
 Version 1.0, 5 September 2026
 Licence: Creative Commons Attribution 4.0 (CC BY 4.0). Reuse is permitted with attribution.
 
-**Suggested citation:** Walk Forward Research (2026). *The justice-held population, England and Wales, 2019 to 2026: methodology and series, v1.0.* [DOI to be assigned on deposit.]
+**Suggested citation:** Walk Forward Research (2026). *The justice-held population, England and Wales, 2019 to 2026: methodology and series, v1.0.* https://doi.org/10.5281/zenodo.22536356
 
 ---
 
