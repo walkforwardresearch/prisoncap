@@ -1,8 +1,15 @@
 # Prison Capacity and Early Release Triggers
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22536356.svg)](https://doi.org/10.5281/zenodo.22536356)
+
+
 Walk Forward Research. Independent, weekly-refreshed model of prison headroom in England and Wales. Scores the Ministry
 of Justice's projections against outturn, forecasts headroom, and lodges dated predictions for
 scoring. Built 3 September 2026 against the brief of the same date.
+
+## Citation
+
+The justice-held population series is deposited on Zenodo: Walk Forward Research (2026), *The justice-held population, England and Wales, 2019 to 2026: methodology and series, v1.0*, https://doi.org/10.5281/zenodo.22536356
 
 ## Refresh
 
