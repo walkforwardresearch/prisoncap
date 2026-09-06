@@ -1,0 +1,19 @@
+edition,sheet,ref_month,n_rows,scenarios,n_monthly
+2008-2015,A1,6,21,central|high|low,42
+2009-2015,A1,6,18,central|high|low,36
+2010-2016,Table A1,6,18,central|high|low,39
+2011-2017,Table A1,6,21,central|high|low,24
+2012-2018,Table A1,6,18,central|high|low,37
+2013-2019,Table A1,6,18,central|high|low,37
+2014-2020,Table A1,6,18,central|high|low,37
+2015-2021,Table A1,6,5,central,0
+2016-2021,Table A1,6,4,central,0
+2017-2022,Table 1.1,6,5,central,0
+2018-2023,Table_1_1,6,5,central,0
+2019-2024,Table_1_1,6,5,central,0
+2020-2026,Table_1_1,9,7,central,0
+2021-2026,Table_1_1,7,5,central,0
+2022-2027,Table_1_1,11,11,central|high|low,28
+2023-2028,Table_1_1,11,13,central|high|low,52
+2024-2029,Table_1_1,9,13,actual|central|high|low,54
+2025-2030,Table_1_1,9,13,actual|central|high|low,54

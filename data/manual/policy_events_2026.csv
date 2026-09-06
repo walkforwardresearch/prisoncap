@@ -1,0 +1,12 @@
+date,measure,estate,population_effect,capacity_effect,basis,source_note
+2026-10-01,Sentencing Act progression release tranche 1 (sentences up to 19 months; release at one third),adult_male,-700,0,MoJ estimate,"Revised plan signed into law and published; start delayed one month from 2 Sep"
+2026-10-13,Sentencing Act progression release tranche 2 (19 months to 2y5m),adult_male,-650,0,MoJ estimate,"Preparation gap cut from ~6 weeks to under a fortnight"
+2026-11-10,Sentencing Act progression release tranche 3 (up to 3y2m),adult_male,-650,0,MoJ estimate,
+2026-12-08,Sentencing Act progression release tranche 4 (up to 4y3m),adult_male,-550,0,MoJ estimate,"~2550 cumulative by end of 2026"
+2027-01-12,Sentencing Act progression release tranche 5 (up to 5y9m),adult_male,-600,0,MoJ estimate,
+2027-02-09,Sentencing Act progression release tranche 6 (up to 7y6m),adult_male,-500,0,MoJ estimate,
+2027-03-09,Sentencing Act progression release tranche 7 (up to 9y),adult_male,-200,0,MoJ estimate,
+2027-04-13,Sentencing Act progression release tranche 8,adult_male,-200,0,MoJ estimate,"Listed tranches total 4050 against an estimated 4500 overall; residual tranches not yet dated"
+2026-09-01,Fast track cell conversion programme (laundries and similar converted to cells),overall,0,0,announced,"GBP 110m; 'hundreds of places'; no dated delivery profile published, so capacity effect left at zero pending the supply schedule in WP4"
+2026-09-01,Proposal to hold 18-year-olds in YOIs until shortly before their 19th birthday,ycs,0,0,proposal,"Not a population reduction: transfers stock from the adult male estate to YCS. Changes headroom in each sub-estate and their separate operating margins (adult male 1460, YCS 60). Modelled as a reclassification, not a release."
+2026-09-01,Exclusions from the progression scheme (rape; grooming; child sex offences; manslaughter; grooming gang indecent assault),adult_male,0,0,announced,"Reduces total releases by about 1400 against the original plan; already netted off the tranche numbers above"
