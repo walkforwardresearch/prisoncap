@@ -1,0 +1,5 @@
+window,n,slope,se,t,r2,corr,total_d_officers,total_d_opcap
+Mar to Jun 2026 (the recent fall),104,0.04,0.151,0.265,0.001,0.026,-75.391,-880.0
+Jun 2025 to Jun 2026 (twelve months),104,0.348,0.189,1.844,0.032,0.18,-758.04,-1293.0
+"Mar 2025 to Mar 2026 (prior year, placebo)",104,0.099,0.183,0.543,0.003,0.054,-697.061,-490.0
+Mar 2023 to Jun 2026 (full span),103,1.638,0.281,5.838,0.252,0.502,-443.289,-1045.0
