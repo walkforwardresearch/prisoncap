@@ -1,0 +1,53 @@
+Prison Receptions: January to March 2026
+Publication details
+These tables are published as part of the 'Offender Management Statistics Quarterly' publication by the Ministry of Justice.
+Link to 'Offender Management Statistics Quarterly' (opens in a new window)
+Definitions and measurements
+Further details of the terminology used to report prison receptions statistics can be found in the definitions section for receptions in the 'Guide to Offender Management Statistics' published alongside these tables.
+Geographic coverage
+All tables are for England and Wales.
+Data sources
+The majority of the figures in these tables are drawn from the Prison National Offender Management Information System (Prison NOMIS) and Digital Prisons Services (DPS). Any additional data sources are listed above the relevant tables.
+Data quality
+The figures in these tables have been drawn from administrative IT systems which, as with any large-scale recording system, are subject to possible errors with data entry and processing.
+Occasionally we identify issues with previously published figures. Revised figures will be marked with [rev]. A revised marker in a column heading indicates that some or all of the values in that column have been updated.
+Data quality improvement work in 2023 to 2025 may have resulted in small unmarked changes to previously published figures.
+Symbols used
+[x] Not available
+[c] Confidential (disclosure control)
+[z] Not applicable
+[rev] Revised figure(s)
+Percentage changes
+A [z] symbol has been used in cases with one (or both) comparator value(s) less than 50.
+Use of notes
+Some tables refer to notes. When notes are mentioned, the note marker is presented in square brackets. The note text can be found in the 'Notes' table.
+Disclosure control
+Where necessary, [c] has been used to suppress values of one or two to prevent the disclosure of individual information. Further disclosure control may be completed where this alone is not sufficient. This could include the secondary suppression of zero values.
+Publication schedule
+This release was published on Thursday 30 July 2026 at 9:30am, and covers prison receptions data for the quarter January to March 2026.
+The next quarterly release will be published on Thursday 29 October 2026 at 9:30am, and will cover prison receptions data for the quarter April to June 2026.
+Offender Management Statistics Quarterly is released every three months on the last working Thursday of January, April, July, and October.
+Additional resources
+Information about establishment predominant function and designation is published by HM Prison and Probation Service in 'Prisons and their resettlement providers'.
+Link to 'Prisons and their resettlement providers' (opens in a new window)
+Information about the youth estate is available in 'Youth justice statistics' and the 'Youth custody report'.
+Link to 'Youth justice statistics' (opens in a new window)
+Link to 'Youth custody report' (opens in a new window)
+Media enquiries
+Contact information for media enquiries can be found on the GOV.UK website.
+Link to 'GOV.UK media enquiries' (opens in a new window)
+Non-media enquiries
+Email: OMSQ-SiC-publications@justice.gov.uk
+Copyright
+Crown copyright (produced by the Ministry of Justice)
+Notes
+This worksheet contains one table.
+Link to Contents tab
+Note Description
+[note 1] A first reception is a measure which counts a prisoner's first movement into custody following a court hearing for a particular set of offences committed, and therefore gives the best indication of the number of new prisoners in the reporting period.
+[note 2] A 'remand first reception' is when a prisoner's first movement into custody is before trial or sentencing.
+[note 3] A 'sentenced first reception' is when a prisoner's first movement into custody is following sentencing at court.
+[note 4] A 'non-criminal first reception' is when a prisoner's first movement into custody is the result of being committed to custody for a civil offence (e.g. contempt of court).
+[note 5] Not all prisons are listed in the table. Those not shown had zero offender first receptions in the reporting period.
+[note 6] Immediate custodial sentence admissions are sentenced admissions excluding fine defaulters.
+[note 7] Recall admissions provide a count of every instance a prisoner is received into custody for the first time following a licence recall issued from a probation supervising body. An offender may have their licence revoked on multiple occasions, and each recall to custody which falls in the reporting quarter will be counted.

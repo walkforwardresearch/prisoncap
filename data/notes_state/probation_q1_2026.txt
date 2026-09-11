@@ -1,0 +1,96 @@
+Probation Statistics: January to March 2026
+About this release
+The Probation chapter of the Offender Management Statistics Quarterly bulletin publishes statistics on offenders under Probation Service supervision in England and Wales.
+These tables report the starts, caseload, and terminations of offenders under Probation Service supervision, as well as pre-sentence reports by the Probation Service and the Imprisonment for Public Protection probation population.
+Publication details
+These tables are published as part of the Offender Management Statistics Quarterly publication by the Ministry of Justice. This is available online at:
+Offender Management Statistics Quarterly
+This release was published on 30 July 2026 at 9:30am, and covers the quarter January to March 2026.
+The next release will be published on 29 October 2026 at 9:30am, and will cover the quarter April to June 2026.
+Offender Management Statistics Quarterly is released every three months on the last working Thursday of January, April, July, and October.
+The Offender Management Statistics Quarterly publication is Crown copyright. Its contents can be used as long as the source is made clear by the user.
+Geographic coverage
+All tables are for England and Wales.
+Definitions and measurements
+Further details of the terminology and methodology used to report probation statistics can be found in the definitions and counting procedures sections for probation in the 'Guide to offender management statistics', which is published alongside these tables.
+Symbols used
+0 = Nil or less than half the final digit shown
+[r] Revised data
+[x] Not available
+[z] Not applicable
+Percentage changes
+A [z] symbol has been used in cases with one (or both) comparator value(s) less than 50.
+Use of notes
+Some tables refer to notes. When notes are mentioned, the note marker is presented in square brackets. The note text can be found in the 'Notes' table.
+Data sources and quality
+The figures in these tables have been drawn from administrative IT systems which, as with any large scale recording system, are subject to possible errors with data entry and processing.
+Details of data quality issues related to the probation data presented in these tables can be found in the data sources and quality section for probation in the 'Guide to offender management statistics', which is published alongside these tables.
+Related statistics
+GOV.UK Justice Data - Probation data dashboard
+Crime and justice statistics (Scotland)
+Department of Justice (Northern Ireland)
+Statistics on Ethnicity and the Criminal Justice System
+Statistics on Women and the Criminal Justice System
+Deaths of Offenders in the Community
+Community Performance Statistics
+Biannual unpaid work management information
+Email for statistical enquiries
+probation-statistics-enquiries@justice.gov.uk
+Contact information for media enquiries can be found on the GOV.UK website
+Media enquiries - Ministry of Justice - GOV.UK
+Notes
+Link to Contents tab
+Note Description
+[note 1] Each person is counted once only for each type of probation supervision started within the time period (starts) or being received on the date shown (caseload). In addition, each person is counted once only in each total or sub-total even if they started (starts) or are subject to (caseload) several types of probation supervision within the time period (starts) or on the date shown (caseload). This means that the totals and sub-totals are less than adding the sum of their parts. For example, if a person started (starts) or is subject to (caseload) a community order and a Supervision Default Order within the time period (starts) or on the date shown (caseload), then the person would be counted once only within the total of all community sentences.
+[note 2] Excludes suspended sentence orders without requirements attached.
+[note 3] The Youth Rehabilitation Order was introduced in the Criminal Justice and Immigration Act 2008 and implemented on 30 November 2009.
+[note 4] Under the Offender Rehabilitation Act 2014, which came into effect on 1 February 2015, offenders who breach their period of post-sentence supervision can be taken back to court and given a Supervision Default Order to be served in the community. Prior to January 2016, these numbers were under-reported due to data quality issues, which have now been resolved.
+[note 5] Offenders sentenced to suspended sentence orders without requirements attached are not supervised by the Probation Service - there are no requirements for the offender to meet, other than to not commit a further offence.
+[note 6] Under the Offender Rehabilitation Act 2014, which came into effect on 1 February 2015, offenders who breach their period of post-sentence supervision can be taken back to court and committed to prison for up to 14 days. Prior to January 2016, these numbers were under-reported due to data quality issues, which have now been resolved.
+[note 7] The 'Other offences' group includes offences that could not be allocated to any of the other offence groups.
+[note 8] The rehabilitation and electronic monitoring requirements were introduced under the Offender Rehabilitation Act 2014 on 1 February 2015. The rehabilitation requirement replaces what would previously have been undertaken as part of both the supervision and specified activity requirements.
+[note 9] Does not include all standalone curfews as most of these are not supervised by the Probation Service.
+[note 10] The alcohol abstinence and monitoring requirement was introduced under the Legal Aid, Sentencing and Punishment of Offenders Act 2012 on 19 May 2020 and rolled out nationally from Winter 2020.
+[note 11] Electronic monitoring figures include curfew requirements which are electronically monitored with a tag. Curfew figures include curfew requirements which are non-electronically monitored and are police managed.
+[note 12] The list of most frequently used combinations of requirements presented in the table is based on data from the latest quarter.
+[note 13] Court orders can contain more than one requirement.
+[note 14] The National Security Division (NSD) was introduced in 2021 under the Probation Reform Programme and is specifically tasked with the enhanced monitoring of terrorists, serious organised criminals and very high-risk offenders.
+[note 15] The national figures may include a small number of offenders that could not be allocated to a region within the Probation Service geographical structure. The regional figures, therefore, may not add up to the national totals.
+[note 16] Includes offenders subject to a court order or post-release supervision.
+[note 17] Nationality is self-declared. Where dual nationalities are recorded, the first one is selected for reporting purposes.
+[note 18] Includes nationalities recorded as "Unknown", "Refused", "Stateless" or missing.
+[note 19] Percentages may not add to 100% due to rounding.
+[note 20] A suspended sentence order may comprise of a supervision period and an operational period. Community requirements are undertaken in the supervision period, which may be terminated early for the reason given in the table. The order as a whole cannot be terminated early and may still be in force beyond the supervision period. The order can be breached if the offender is convicted of an offence whilst the order is operational.
+[note 21] Excludes breach, deferred sentence and court review reports (for further details please see the guide to offender management statistics).
+[note 22] Concordance refers to the consistency between the sentence proposed in the pre-sentence report and the sentence that was subsequently given by the court.
+[note 23] The total number of court reports given in table 6.12 is lower than the number of all court reports over the equivalent annual period in table 6.11 since the concordance calculations exclude sentences that are unrecorded.
+[note 24] Includes all pre-Criminal Justice Act 2003 community sentences.
+[note 25] Figures are not comparable to those presented for periods up to December 2019 in previous publications because the total number of sentences proposed now includes absolute/conditional discharges and other sentences.
+[note 26] Includes offenders serving a Detention for Public Protection sentence who are defined in the data as offenders serving an Imprisonment for Public Protection sentence, but were aged under 18 at the time of sentencing.
+[note 27] The Imprisonment for Public Protection (IPP) sentence, and Detention for Public Protection (DPP) sentence for those under the age of 18, was introduced in 2005 as an indeterminate sentence targeted at serious offenders who, although they were thought to pose an ongoing risk to public safety, did not merit a life sentence. IPP and DPP sentences were abolished in 2012 by the Legal Aid, Sentencing and Punishment of Offenders Act.
+[note 28] This table presents the total number of offenders who were subject to an Imprisonment for Public Protection (IPP) sentence on licence in the community for each probation caseload snapshot period between 31 March 2025 and 31 March 2026, by the number of years since they were last released from custody. For example, as at 31 March 2026, 936 offenders were serving an IPP sentence on licence in the community, out of which 433 were last released from custody less than one year ago.
+[note 29] The figures in these tables have been drawn from administrative IT systems which, as with any large scale recording system, are subject to possible errors with data entry and processing. While these breakdowns for the Imprisonment for Public Protection probation population were introduced in 2023, we will continue to investigate and revise any issues identified in this data.
+[note 30] Before 1 February 2025, after five years of continuous good behaviour in the community, Imprisonment for Public Protection (IPP) offenders could apply to the Parole Board to have the supervision requirements of their licence suspended. From 1 February 2025, this was reduced to three years of continuous good behaviour in the community for IPP offenders, and two years for Detention for Public Protection (DPP) offenders. If the application to the Parole Board is successful, this means that the offender will not have any active supervision, but the licence will remain in force.
+[note 31] This table presents the total number of offenders subject to an Imprisonment for Public Protection (IPP) sentence on licence in the community for each probation caseload snapshot period between 31 March 2025 and 31 March 2026 and who were eligible (subject to a Parole Board decision) for suspension of their supervision at that time. The table also shows the year in which they became eligible. For example, as at 31 March 2026, there were 78 offenders serving an IPP sentence on licence in the community who were eligible for suspension of their sentence. In 2026, 14 became eligible for suspension of their supervision.
+[note 32] Includes eligible offenders who have already had their supervision requirements suspended, but remain on licence.
+[note 33] Before 1 February 2025, an individual sentenced to an Imprisonment for Public Protection (IPP) sentence had the right, under section 31A of the Crime (Sentences) Act 1997, for consideration to be given to terminating their licence 10 years after their initial release from custody. This is regardless of whether they had been recalled to prison at any point during the 10 years. From 1 February 2025, the 10 years after initial release from custody requirement was reduced to 3 years for IPP offenders and 2 years for Detention for Public Protection (DPP) offenders. Offenders also now have to be in the community for the Parole Board to consider terminating their licence.
+[note 34] Before 1 February 2025, this includes Imprisonment for Public Protection (IPP) offenders under pre- or post-release supervision, including IPP offenders who have been returned to custody following a recall. From 1 February 2025, this includes IPP offenders under post-release supervision only.
+[note 35] This table presents the total number of offenders subject to an Imprisonment for Public Protection (IPP) sentence under pre- and post-release supervision (before 1 February 2025) and post-release supervision only (from 1 February 2025) for each probation caseload snapshot period between 31 March 2025 and 31 March 2026 and who were eligible (subject to a Parole Board decision) for termination of their licence at that time. The table also shows the year in which they became eligible. For example, as at 31 March 2026, there were 633 offenders serving an IPP sentence under post-release supervision who were eligible for termination of their sentence. In 2026, 16 offenders became eligible for termination of their licence.
+[note 36] Sex is defined as the legal sex recorded on an individual's birth certificate.
+[note 37] The data pipeline used to compile the figures in this table has been updated. This change was introduced from 2024 Q1. More details can be found in the 'Probation data process transition' section of Chapter 6 in earlier editions of the publication.
+[note 38] The table includes a handful of offenders who, in practice, have had their licences terminated, in accordance with the Imprisonment for Public Protection (IPP) reforms outlined in Section 66 of the Victims and Prisoners Act 2024, but still remain in the probation caseload figures due to the data being drawn from administrative IT systems which, as with any large-scale recording system, are subject to possible errors with data entry and processing. Further details about the IPP reforms are available at these links:
+https://questions-statements.parliament.uk/written-statements/detail/2024-09-05/hcws72
+https://commonslibrary.parliament.uk/research-briefings/sn06086/
+[note 39] The new criteria for licence suspension, outlined in Section 66 of the Victims and Prisoners Act 2024, which came into force on 1 February 2025, has been implemented in the table from July 2025.
+[note 40] The new criteria for referral to the Parole Board, for consideration of licence termination, outlined in Section 66 of the Victims and Prisoners Act 2024, which came into force on 1 February 2025, has been implemented in the table from July 2025.
+[note 41] The table does not account for those that became ineligible for suspension of supervision following a Parole Board decision to not suspend their licence, or those that became re-eligible for suspension of supervision a year after a previous Parole Board decision to not suspend supervision.
+[note 42] The table does not include offenders who were eligible to have their licence automatically terminated in accordance with the Imprisonment for Public Protection reforms outlined in Section 66 of the Victims and Prisoners Act 2024.
+[note 43] The table may include offenders that the Parole Board has refused to grant licence termination for, following a referral.
+[note 44] From 1 February 2025, the table does not include Imprisonment for Public Protection prisoners recalled to custody that may be eligible for consideration of licence termination as part of their next Parole Board release review.
+[note 45] The table may include Imprisonment for Public Protection (IPP) offenders who have been remanded to custody or are serving a further sentence, without having been recalled on their IPP sentence, but who may still be eligible for licence termination.
+[note 46] The figures in these tables have been drawn from administrative IT systems which, as with any large-scale recording system, are subject to possible errors with data entry and processing. As these are newly introduced breakdowns for the Probation Reset and Probation Impact populations, we will continue to investigate and revise any issues identified in this data.
+[note 47] Where contact supervision has been suspended under Probation Reset, or under Probation Impact from the 30 September 2025 caseload onwards, the offender remains on the caseload, as orders and licences continue to be active during the suspension period. As a result, they are included in caseload totals and sub-totals.
+[note 48] This includes both: i) community orders that are terminated early for good progress following an application to the court, and ii) community orders that impose only an unpaid work requirement, which end automatically once the hours are completed without requiring an application to court.
+[note 49] Following the transition to the new data pipeline for probation statistics, additional enhancements have been made to the data processing methodology. As a result, the published figures now provide a more complete picture of the probation caseload. These improvements have been implemented from the January to March 2026 reporting period onwards and have not been applied retrospectively. This creates a break in the time series, and users should therefore exercise caution when comparing these figures with those published for earlier periods.
+[note 50] Following the introduction of a single short-format template for all written pre-sentence reports (PSRs) on 23 February 2026, the number of standard delivery PSRs decreased in January to March 2026, while the number of written fast delivery PSRs increased.
+End of worksheet

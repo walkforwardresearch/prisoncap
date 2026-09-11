@@ -1,0 +1,109 @@
+Criminal court statistics quarterly: January to March 2026
+Type and volume of cases received and processed through the criminal court system of England and Wales, including statistics on case timeliness. Also includes statistics on the use of language interpreter and translation services in courts and tribunals, England and Wales.
+Contact
+Press enquiries should be directed to the Ministry of Justice press office, telephone 02033343536.
+Notes
+This worksheet contains one table.
+Note number Note text
+[c] Confidential: supressed.
+[r] Revised.
+[x] Not available.
+[z] Not applicable.
+Note 1 A case is counted as a disposal when all offences on a case have a final outcome.
+Note 2 Open caseload estimates are not a calculation based on receipts and disposals.  The estimates give a snapshot of live cases on the magistrates' courts system at the end of the period (where the case receipt is after October 2007). The volumes can be influenced by the transfering of a case, change to offences and where cases or offences are entered in error.
+Note 3 Data may change when refreshed following a data validation process.
+Note 4 Data are currently only available from 2019.
+Note 5 Includes committed for trial cases prior to the national abolition of committal hearings on 28th May 2013.
+Note 6 Committal proceedings were abolished nationally on 28th May 2013. Triable-either-way cases are now sent rather than committed for trial.
+Note 7 Single Justice Procedure notices were introduced to magistrates' courts in England and Wales in June 2015 under the Criminal Justice and Courts Act 2015.  They allow cases involving adults charged with summary offences to be dealt with in a single magistrates' sitting without the prosecutor or defendant being present. Offences which can be dealt with in this manner include, TV license evasion, TfL fare evasion, speeding and driving without insurance.
+Note 8 Following a technical issue during the LIBRA Management Information System refresh, a small amount of data was not included for a single day in September 2020.  It is estimated this that has resulted in a small number (less than 1%) of case disposals being omitted from the Q3 2020 totals.
+Note 9 A trial can only be 'effective' or 'cracked' once in the duration of a case whereas a trial can be 'ineffective' or 'vacated' more than once in the duration of a case.
+Note 10 The total number of trials listed during the reporting period indicated. Not all cases will go to trial, for the purposes of trial effectiveness we consider a ‘trial’ at the point of initial listing.  A trial which goes ahead on the planned date and occurs is then considered as ‘effective’, a trial that is listed but does not go ahead is considered either cracked, ineffective or vacated as detailed in the supporting guidance document which is available here: https://www.gov.uk/government/collections/criminal-court-statistics.
+Note 11 Vacated trials are trials which have been removed from the listing before the date of the trial, they are counted in the period the vacation happened rather than the date when they were due to be listed. For example a trial which was due to be listed in 2014 could be vacated in 2013 and so would be included in the vacated trial numbers for 2013.
+Note 12 Prior to April 2007 the data were collected via the cracked and ineffective trial monitoring forms. Collection via the online HMCTS Performance Database (OPT) began from April 2007. Data prior to April 2007 are comparable with data from April 2007 since only the method of data collected changed not the methodology.
+Note 13 A receipt is a case which has been received from the magistrates' courts within the reporting period.  This includes cases that are sent for trial or sentence , appeals of magistrates' decisions or requests for re-trial.
+Note 14 A disposal is counted once all offences for all defendants on the case have a final result recorded or have been remitted back to the magistrates' court.
+Note 15 A case is open where any defendant in a case has any offence without a final result recorded. The estimated counts are a snapshot of cases that are live on the system at a point in time (e.g. as at 31st December) - it is not a calculation based on receipts and disposals. The open caseload excludes cases where one or more defendants is absent and has a live bench warrant for arrest.  Once the bench warrant has been executed and the defendant(s) have been bought before the court, the case will be included in the open counts.
+Note 16 Data prior to 2014 is produced on a different methodology and is available in 'Criminal Court Statistics Quarterly, January to March 2020' available from the following address: https://www.gov.uk/government/statistics/criminal-court-statistics-quarterly-january-to-march-2020
+Note 17 The total number of trials does not include vacated trials.
+Note 18 Excludes warned list cases.
+Note 19 Estimates from Q3 2020 exclude cases which have transitioned to the Common Platform system in the early adopter sites from September 2020, this represents less than 1% of listed trials across this period.
+Note 20 The number of defendants relate to defendants in the cases that were disposed of in the reporting period.
+Note 21 Includes triable-either-way and indictable only for trial cases.
+Note 22 Includes cases where a bench warrant was issued, no plea recorded, indictment to lie on file, found unfit to plead, other results and cases that were transferred out.
+Note 23 This data is sourced from the One Crown data pipeline and methodology - as such this data will not be directly comparable to versions of this table prior to 'Criminal Court Statistics Quarterly, October to December 2024'.
+Note 24 A guilty plea is recorded when a defendant: (i) pleads guilty to all counts; (ii) pleads guilty to some counts and not guilty to others and no jury is sworn in respect of the not guilty counts; or (iii) pleads not guilty to some or all counts but offers a guilty plea to alternatives which are accepted (providing no jury is sworn in respect of the other counts).
+Note 25 Includes cases where defendants plead not guilty to all counts and also cases where defendants plead not guilty to some counts.
+Note 26 ‘Dropped’ cases are where the prosecution no longer want to proceed but do not necessarily wait until the day of trial.
+Note 27 The guilty plea rate is the number of defendants pleading guilty as a proportion of all defendants with a plea entered.
+Note 28 The stage at which a defendant pleaded guilty is calculated from the hearing type entered by the court.
+Note 29 Defendants with more than one case will be counted more than once.
+Note 30 Prior to trial includes guilty pleas entered at plea, at the plea and case management hearing or at a newton hearing (no further trial time required).
+Note 31 'Other' is where a guilty plea was recorded and the case hearings do not include a prior to trial hearing or a cracked trial hearing.
+Note 32 The stage at which a defendant pleaded guilty is calculated from the hearing type entered by the court.
+Note 33 Number of hearings it took for a guilty plea to be entered, including the hearing that it was entered at.
+Note 34 Waiting time refers to the time between the date of sending a case to the Crown Court and the start of the substantive Crown Court hearing.
+Note 35 The number of cases that were disposed of in the reporting period. Disposals include cases where a disposal is recorded against each defendant and all their offences; and cases that are transferred out, it excludes cases with a receipt date prior to 2005.
+Note 36 Defendants who have a main hearing, and have entered a plea, this excludes defendants that have a receipt date prior to 2005.
+Note 37 Remanded in custody refers to defendants who are recorded as being held in custody at the time of receipt into the Crown Court or the time of their first hearing.
+Note 38 Remanded on bail refers to defendants who are not held in custody at the time of receipt into the Crown Court or the time of their first hearing, but are recorded as being on bail.
+Note 39 Hearing time is the time a case spends being heard in the Crown Court, including preliminary hearings, main hearings, and hearings where a sentence is given to a defendant.
+Note 40 The number of cases that were disposed of in the reporting period. Disposals include cases where a disposal is recorded against each defendant and all their offences; and cases that are transferred out.
+Note 41 Cases that have a hearing time and have entered a plea.
+Note 42 Appeals dealt with relate to appeal cases that were disposed of in the reporting period, including cases that are transferred out.
+Note 43 Includes those for non-Criminal matters including licensing or care proceedings in juvenile cases.
+Note 44 If an appeal is allowed, then the conviction has been overruled or the sentence has been changed.
+Note 45 If an appeal has been dismissed, then the conviction/sentence stands.
+Note 46 Includes both abandoned in court and abandoned before court appearance.
+Note 47 Includes those remitted back to magistrates' courts.
+Note 48 SJP offences under the Criminal Justice and Courts Act 2015, allows cases involving adults charged with summary offences to be dealt with in a single magistrate sitting without the prosecutor or defendant being present. Offences which can be dealt with in this manner include, TV license evasion, TfL fare evasion, speeding and driving without insurance.
+Note 49 All data presented has been revised as at Q4 2019 following the identification of a small number of duplicate entries and missing defendants.  The impact on published estimates is minimal and the improved measures has been applied to all back series and as such the data is comparable, reliable and robust.
+Note 50 Only one offence is counted for each defendant in the case. If there is more than one offence per defendant that complete on the same day, a set of validation rules applies to select one offence only and these relate to the longest duration, seriousness and the lowest sequence number of the offence.
+Note 51 Includes cases completed in the magistrates' courts during the specified time period, where no further action is required by the magistrates' courts.
+Note 52 Includes cases that are sent to the Crown Court.
+Note 53 SJP cases are identified in the centrally collated data based on the ‘initiation type’ recorded against the case.  It is known that a small number of cases have incorrect initiation types recorded against them, with incompatible offences under SJP included within the overall reported counts, e.g. triable either way, indictable and summary imprisonable offences.  It is estimated that this accounts for well under 1% of the total defendants dealt with across the series. Where errors do exist the levels are monitored and appropriate action to understand and improve data quality are taken.
+Note 54 A median value of 0 indicates that the case had a first listing and was completed on the same day.
+Note 55 Single Justice Procedure notice cases within magistrates’ courts in England and Wales introduced in June 2015.
+Note 56 Timeliness tables include ATCM (automated track case management) cases which started in April 2017.
+Note 57 Following a technical issue during the LIBRA Management Information System refresh, a small amount of data was not included for a single day in September.  It is estimated that this has resulted in a small number (less than 1%) of case disposals being omitted from the latest quarterly totals.
+Note 58 Includes cases with an offence to completion time greater than 10 years but excludes a small number of cases with identified data quality issues and breaches.
+Note 59 Includes committed for trial cases prior to the national abolition of committal hearings on 28th May 2013. Triable-either-way cases are now sent rather than committed for trial.
+Note 60 Timeliness figures are only available from April 2010, so data for 2010 is presented above for Q2 to Q4 only.
+Note 61 From Q2 2015, the figures include Single Justice Procedure cases that were completed within magistrates’ courts in England and Wales, introduced in June 2015.
+Note 62 Timeliness tables include TfL ATCM (automated track case management) cases which started in April 2017.
+Note 63 All data presented has been revised as at Q4 2019 following the identification of a small number of duplicate entries and missing defendants. The impact on published estimates is minimal and the improved measures has been applied to all back series and as such the data is comparable, reliable and robust.
+Note 64 Excludes cases that are sent to the Crown Court.
+Note 65 Excludes a small number of cases with identified data quality issues (e.g. no date information recorded), breaches and appeals.
+Note 66 Includes all criminal cases which have received a verdict and concluded in the specified time period in the Crown Court.
+Note 67 Data link using probabilistic recording linking ('Splink') methodology - further information of the matching methodology is available at the following link: https://www.gov.uk/government/publications/joined-up-data-in-government-the-future-of-data-linking-methods/splink-mojs-open-source-library-for-probabilistic-record-linkage-at-scale
+Note 68 The number of defendants shows the number whose cases have completed and where it has been possible to match from initial appearance at magistrates’ court to completion in the Crown Court. The match rate is typically between 90-95%, as for some cases, it is not possible to match defendants through the system and these cases are excluded.
+Note 87 Courts, prisons and other requesters in England and Wales, and all UK tribunals (the statistics from November 2016 onwards do not cover tribunals in Northern Ireland) not transferred to devolved governments.
+Note 88 All statistics in this series are considered official statistics.
+Note 89 The annual 2016 figures provided, as well as the Q4 2016 figures, are a combination of statistics from the old Capita TI contract and the new contracts with thebigword and Clarion. To note, October 2016 is the last month under the old contract.
+Note 90 May not sum to 100% due to rounding.
+Note 91 The “success rate” from 2013 until Q3 2016 is calculated using outcome categories under the old contract as follows: (Fulfilled + Customer did not attend) / (Fulfilled + Not fulfilled by supplier + Supplier did not attend + Customer did not attend).
+Note 92 The “success rate” for 2016 and Q4 2016 was calculated using the outcome categories from the old contract for data from January 2016 to October 2016, and the outcome categories from the new contracts for data from November to December 2016. See technical guide for more details.
+Note 93 The “success rate” under the new contract from Q1 2017 onwards is calculated as: (Fulfilled) / (Fulfilled + Unfulfilled).
+Note 94 All statistics in this series are considered official statistics.
+Note 95 Total may not sum to 100% due to rounding.
+Note 96 'Interpreter conduct' is a new category introduced under the new contract from November 2016.
+Note 97 Includes the categories of  'Communication issues - error' ; 'Booking not fulfilled - linguist incorrect gender' ; 'Booking not fulfilled - linguist has incorrect security level'.
+Note 98 Complaint rates are total complaints as a proportion of total completed requests.
+Note 99 Nothing has changed with the off-contract process during the shift in contract in October 2016.
+Note 100 Courts, prisons and other requesters in England and Wales, and all UK tribunals not transferred to devolved governments.
+Note 101 Data only available for 9 months of 2013.
+Note 102 Open case duration refers to the time between the receipt of a case in the Crown Court and the end of the reporting period, for example counts in Q3 2020 relate to cases which are open as at the end of September 2020.
+Note 103 For trial' cases relates the case type at the point of receipt into the Crown Court - we know that most of these cases will result in the entry of a guilty plea and that only a minority will require a trial.
+Note 104 Valid open cases excludes cases that have had bench warrant issued on the case, at any point prior to the open date.
+Note 105 Median here relates to the 50th percentile.
+Note 106 'For trial' cases relates the case type at the point of receipt into the Crown Court - we know that most of these cases will result in the entry of a guilty plea and that only a minority will require a trial.
+Note 107 Open case duration refers to the time between the receipt of a case in the Crown Court and the end of the reporting period, for example counts in Q3 2020 relate to cases which are open as at the end of September 2020.
+Note 110 Cases that were disposed of in the reporting period. Disposals include cases where a disposal is recorded against each defendant and all their offences; and cases that are transferred out, it excludes cases with a receipt date prior to 2005.
+Note 111 Valid case counts exclude 'bring backs' and 'committals for breach' (sentence cases only), transfers out, cases which have been issued a bench warrant and cases which have no hearing recorded (e.g. main, plea or preliminary).
+Note 114 We have made changes to the methodology used to calculate the number of hearings before a guilty plea was entered for data from the Common Platform system to align it with the methodology used for data from the XHIBIT system. This has led to some revisions in the number of guilty pleas entered at the first hearing for the latest 3 years.
+Note 115 The lower limits of our bands are inclusive but the upper limits are not e.g. for the 20 to 26 weeks group, this includes cases that have been in the open caseload for 20 weeks or more and less than 26 weeks.
+Note 116 The June 2024 booking portal update, aimed at improving responsiveness, caused unexpected issues, that although resolved quickly, temporarily impacted fulfilment rates.
+Note 117 The number of off contract bookings show an increase this reporting period due to a change in the data source.  This new collection approach improves data integrity and will be used going forward.
+Note 118 The magistrates’ caseload data has been improved following the identification of cases with no assigned offence type.  These cases have now been reassigned and identified as part of the magistrates' court receipts, disposals and open cases.
+Note 119 The number of trials in the Crown Court trial effectiveness data has been revised down by 5% (for Q1 2025) following the identification of trials which were being overcounted due to multiple cases sharing the same trial.
+Note 120 The number of Crown Court cases where a Not Guilty plea has been entered have been used as a proxy for the number of trials taking place at the Crown Court. This proxy will not be a perfect match and should be viewed with caution.

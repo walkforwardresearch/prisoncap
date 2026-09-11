@@ -1,0 +1,89 @@
+Probation Statistics: January to December 2024
+About this release
+The Probation chapter of the Offender Management Statistics Quarterly bulletin publishes annual and quarterly statistics on offenders under Probation Service supervision in England and Wales.
+These tables report the starts, caseload, and terminations of offenders under Probation Service supervision, as well as pre-sentence reports prepared by the Probation Service.
+Publication details
+These tables are published as part of the Offender Management Statistics Quarterly publication by the Ministry of Justice. This is available online at:
+Offender Management Statistics Quarterly
+This release was published on 24 April 2025 at 9:30am, and covers the period from January to December 2024.
+The next release will be published on 30 April 2026 at 9:30am, and will cover the period from January to December 2025.
+Offender Management Statistics Quarterly is released every three months on the last working Thursday of January, April, July, and October. The annual figures are released in April.
+The Offender Management Statistics Quarterly publication is Crown copyright. Its contents can be used as long as the source is made clear by the user.
+Geographic coverage
+All tables are for England and Wales.
+Definitions and measurements
+Further details of the terminology and methodology used to report probation statistics can be found in the definitions and counting procedures sections for probation in the 'Guide to offender management statistics' published alongside these tables.
+Symbols used
+0 = Nil or less than half the final digit shown
+[r] Revised data
+[x] Not available
+[z] Not applicable
+Percentage changes
+A [z] symbol has been used in cases with one (or both) comparator value(s) less than 50.
+Use of notes
+Some tables refer to notes. When notes are mentioned, the note marker is presented in square brackets. The note text can be found in the 'Notes' table.
+Data sources and quality
+The figures in these tables have been drawn from administrative IT systems which, as with any large scale recording system, are subject to possible errors with data entry and processing.
+Details of data quality issues related to the probation data presented in these tables can be found in the data sources and quality section for probation in the 'Guide to offender management statistics' which is published alongside these tables.
+Related statistics
+GOV.UK Justice Data - Probation data dashboard
+Crime and justice statistics (Scotland)
+Department of Justice (Northern Ireland)
+Statistics on Ethnicity and the Criminal Justice System
+Statistics on Women and the Criminal Justice System
+Email for statistical enquiries
+probation-statistics-enquiries@justice.gov.uk
+Contact number for media enquiries
+020 3334 3536
+Notes
+Link to Contents tab
+Note Description
+[note 1] Each person is counted once only for each type of probation supervision started within the time period (starts) or being received on the date shown (caseload). In addition, each person is counted once only in each total or sub-total even if they started (starts) or are subject to (caseload) several types of probation supervision within the time period (starts) or on the date shown (caseload). This means that the totals and sub-totals are less than adding the sum of their parts. For example, if a person started (starts) or is subject to (caseload) a community order and a Supervision Default Order within the time period (starts) or on the date shown (caseload), then the person would be counted once only within the total of all community sentences.
+[note 2] Between April and June 2020, the number of cases processed at the criminal courts and the number of offenders on the probation caseload as at 30 June 2020 was substantially reduced as a result of the operational restrictions that were put in place on 23 March 2020 in response to the COVID-19 pandemic. While the impact of these operational restrictions continued into subsequent periods, the figures in more recent periods have recovered to pre-pandemic levels.
+[note 3] Sex is defined as the legal sex recorded on an individual's birth certificate.
+[note 4] The data pipeline used to compile the figures in this table has been updated. This change was introduced for the 2024 figures. More details can be found in the 'Probation data process transition' section of Chapter 6 of the publication.
+[note 5] Excludes suspended sentence orders without requirements attached.
+[note 6] For years prior to 2009, see Offender Management Caseload Statistics 2008 for a detailed breakdown of pre-Criminal Justice Act 2003 figures.
+[note 7] The Youth Rehabilitation Order was introduced in the Criminal Justice and Immigration Act 2008 and implemented on 30 November 2009.
+[note 8] Under the Offender Rehabilitation Act 2014, which came into effect on 1 February 2015, offenders who breach their period of post-sentence supervision can be taken back to court and given a Supervision Default Order to be served in the community. Prior to January 2016, these numbers were under-reported due to data quality issues, which have now been resolved.
+[note 9] Offenders sentenced to suspended sentence orders without requirements attached are not supervised by the Probation Service - there are no requirements for the offender to meet, other than to not commit a further offence.
+[note 10] Under the Offender Rehabilitation Act 2014, which came into effect on 1 February 2015, offenders on a custodial sentence are subject to statutory supervision on release from prison. Previously, only adults sentenced to over 12 months in custody and all young offenders were subject to statutory supervision.
+[note 11] Under the Offender Rehabilitation Act 2014, which came into effect on 1 February 2015, offenders who breach their period of post-sentence supervision can be taken back to court and committed to prison for up to 14 days.
+[note 12] Where possible, this table includes the transition over to the offence groups that the Office for National Statistics (ONS) introduced in 2013. This brings the offence groups into line with prison population statistics (which transitioned over on 30 June 2015) and improves consistency with other National Statistics publications on the Criminal Justice System in the Ministry of Justice, Home Office, and the ONS. For years where it has not been possible to provide the ONS offence group breakdown, please refer to the old breakdown, which is included in the annual probation publication tables for 2019 at: https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/882167/Probation_2019.ods.
+[note 13] The 'Other offences' group includes offences that could not be allocated to any of the other offence groups.
+[note 14] Age at start of order.
+[note 15] The category of offenders aged 18-20 includes a small proportion of individuals who have been recorded as being less than 18 years of age; this is likely due to date of birth being incorrectly recorded, where a youth offender is being transitioned to the Probation Service prior to their 18th birthday or where an individual is subject to Community Payback commissioned by the Youth Justice Board.
+[note 16] Ethnicity is not a requirement and, therefore, offenders do not have to disclose their ethnic background. It is self-declared.
+[note 17] Not stated means that the offender refused to give their ethnicity. Missing means that the data is simply not recorded on the case management system. Percentage shown for missing is calculated on the total, not just those with ethnic group recorded.
+[note 18] As part of the Probation Reform Programme, contracts for Community Rehabilitation Companies ended on the 25 June 2021, and a new unified Probation Service, split into 12 regions, was introduced in England and Wales. Data for the new regions are available from 2022 only. For previous years, the data are based on the old regional structure.
+[note 19] The National Security Division (NSD) was introduced in 2021 under the Probation Reform Programme and is specifically tasked with the enhanced monitoring of terrorists, serious organised criminals and very high-risk offenders.
+[note 20] The national figures may include a small number of offenders that could not be allocated to a region within the new Probation Service geographical structure. The regional figures, therefore, may not add up to the national totals.
+[note 21] Court orders can contain more than one requirement.
+[note 22] The rehabilitation and electronic monitoring requirements were introduced under the Offender Rehabilitation Act 2014 on 1 February 2015. The rehabilitation requirement replaces what would previously have been undertaken as part of both the supervision and specified activity requirements.
+[note 23] The alcohol abstinence and monitoring requirement was introduced under the Legal Aid, Sentencing and Punishment of Offenders Act 2012 on 19 May 2020 and rolled out nationally from Winter 2020.
+[note 24] Does not include all standalone curfews as most of these are not supervised by the Probation Service.
+[note 25] Following the introduction of updated recording instructions to probation staff in October 2022, electronic monitoring figures include curfew requirements which are electronically monitored with a tag. Curfew figures include curfew requirements which are non-electronically monitored and are police managed.
+[note 26] The sum of the proportions is more than 100 as more than one requirement can be attached to an order. See table 6.7 for orders by number of requirements.
+[note 27] The list of most frequently used combinations of requirements presented in the table is based on data from the latest year.
+[note 28] Percentages may not add to 100% due to rounding.
+[note 29] The national figures may include a small number of offenders supervised by the National Security Division (NSD). The NSD was introduced in 2021 under the Probation Reform Programme and is specifically tasked with the enhanced monitoring of terrorists, serious organised criminals and very high-risk offenders.
+[note 30] Includes offenders subject to a court order or post-release supervision.
+[note 31] For years prior to 2010, see Offender Management Caseload Statistics 2009 for a detailed breakdown of pre-Criminal Justice Act 2003 figures.
+[note 32] Criminal histories are taken from the Ministry of Justice's extract of data from the Police National Computer (PNC). Like any large scale recording system, the PNC is subject to errors with data entry and recording. The PNC is regularly updated so that further analysis at a later date will generate revised figures.
+[note 33] Previous convictions/cautions are based on the number of occasions an offender has previously received a conviction or caution for any offence recorded on the PNC, including some offences committed outside of England and Wales. Where there were multiple offences on the same occasion, only the primary offence, as recorded on the PNC, is counted.
+[note 34] Percentages are given as proportions of offenders found on the PNC for each sentence type.
+[note 35] Some offenders from the probation datasets are not found on the extract of the PNC due to matching two different administrative datasets with different recording practices so discrepancies will exist.
+[note 36] All probation service supervision includes some other types of court orders involving small numbers of offenders.
+[note 37] Figures for community orders with 1 requirement include a small number of community orders with no requirements.
+[note 38] Percentages are given as proportions of offenders found on the PNC for each sentence type and number of requirements.
+[note 39] Percentages are given as proportions of offenders found on the PNC for each age group.
+[note 40] Between April and June 2020, the number of cases processed at the criminal courts was substantially reduced as a result of the operational restrictions that were put in place on 23 March 2020 in response to the COVID-19 pandemic. While the impact of these operational restrictions continued into subsequent periods, the termination figures in more recent periods have recovered to pre-pandemic levels.
+[note 41] A suspended sentence order may comprise of a supervision period and an operational period. Community requirements are undertaken in the supervision period, which may be terminated early for the reason given in the table. The order as a whole cannot be terminated early and may still be in force beyond the supervision period. The order can be breached if the offender is convicted of an offence whilst the order is operational.
+[note 42] From April 2012, there was a change to the court report data collection process (for further details please see the guide to offender management statistics).
+[note 43] Excludes breach, deferred sentence and court review reports (for further details please see the guide to offender management statistics).
+[note 44] The total number of court reports given in table 6.25 is lower than the number of all court reports (in tables 6.24 and 6.26) since the concordance calculations exclude sentences that are unrecorded.
+[note 45] Concordance refers to the consistency between the sentence proposed in the pre-sentence report and the sentence that was subsequently given by the court.
+[note 46] From April 2012, there was a change to the court report data collection process (for further details see the guide to offender management statistics). Data was not available from the court reports database prior to 2006.
+[note 47] Includes all pre-Criminal Justice Act 2003 community sentences.
+[note 48] Figures are not comparable to those presented for periods up to December 2019 in previous publications because the total number of sentences proposed now includes absolute/conditional discharges and other sentences.
+End of worksheet

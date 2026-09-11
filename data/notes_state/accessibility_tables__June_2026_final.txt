@@ -1,0 +1,68 @@
+Cover page
+Ministry of Justice Statistical Bulletin
+His Majesty's Prison and Probation Service Workforce Statistics Bulletin England and Wales
+Date
+30 June  2026
+Published
+20 August 2026
+Next release
+19 November 2026
+Press enquiries
+Press enquiries should be directed to the Ministry of Justice press office: https://www.gov.uk/government/organisations/ministry-of-justice/about/media-enquiries
+Other enquiries
+Other enquiries about these statistics should be directed to: Email: robert.hartley@justice.gov.uk
+Notes
+This worksheet contains one table.
+Note number Note text
+[note 1] Information reflects the latest regional management structure and does not necessarily reflect geographical border areas.
+[note 2] This footnote no longer relevant
+[note 3] The Youth Custody Service (YCS), created in April 2017 to oversee day-to-day management of the under 18s young people’s estate, is a new specialist service. Central YCS units are categorised within HQ and Frontline Support and the Youth Custody Estate includes the following young offender institutions: Feltham, Werrington, and Wetherby. The YCS also initially included Cookham Wood and the Medway Secure Training Centre which closed in March 2020
+[note 4] The 'Other' category includes prison establishments that are no longer operational. Staff still attached to these establishments are mainly on detached duty elsewhere or on long-term sickness absence.
+[note 5] HMP Lowdham Grange (as of 1st August 2024) came back under public ownership. Figures for their staff are included in the High Security North region, as well as the Total figures.
+[note 6] This footnote no longer relevant
+[note 7] In late June 2021, more than 7,000 staff from private sector Community Rehabilitation Companies (CRC) came together with probation staff already in the public sector in the new Probation Service.
+[note 8] Establishments are allocated to a category as it was at the latest date rather than the category as it was at the specific snapshot point of the table.
+[note 9] Where an establishment holds different categories of prisoner it is not possible to disaggregate the staffing. All staff are allocated to the primary category of the establishment.
+[note 10] YOIs under the Youth Custody Service category are responsible for young people aged 10-17 years (although some individuals may turn 18 whilst in these establishments but may not move to the adult estate if they are very close to the end of their sentence) with the exception of Feltham which also holds young adults up to 21 years of age.
+[note 11] A breakdown of staff in post by NPS work areas is not currently available for 2017 and 2018.
+[note 12] HMP Lowdham Grange (as of 1st August 2024), has come back under public ownership. Figures for its staff are included in the Male Category B and Total figures.
+[note 13] Staff working in the Fair and Sustainable Bands, introduced in April 2012, are aligned with the equivalent grade in the old structure.
+[note 14] Nurses and other healthcare staff are no longer directly employed by HMPPS with services being commissioned through Clinical Commissioning Groups.
+[note 15] These movements refer to existing HMPPS staff who applied for and were appointed to prison officer jobs. They are neither leavers nor joiners but do contribute to the total number of new officers appointed.
+[note 16] Other and unknown grades include more unusual grades and a small number of staff where the grade was not recorded at the time the data were extracted.
+[note 17] A small number of staff in NPS grades work in other parts of HMPPS and a small number of staff in the NPS do not have NPS grades. Therefore the figures for Probation Service Grades do not represent the total staff in the Probation Service.
+[note 18] HMP Lowdham Grange (as of 1st August 2024), has come back under public ownership. Figures for its staff are included in the staff in post figures.
+[note 19] The length of service in HMPPS is calculated from most recent hire Date. Where staff have transferred in from another Government Department or have transferred in through HMPPS taking over a function, length of service is calculated from entry to HMPPS.
+[note 20] Band 3-5 Officers includes Band 3-4 / Prison Officers (incl specialists), Band 4 / Supervising Officers, and Band 5 / Custodial Managers.
+[note 21] The service of NPS staff in Probation Trusts prior to the creation of the NPS on 1 June 2014 is not included. Figures presented here therefore do not represent the full experience of Probation Officers.
+[note 22] This footnote no longer relevant
+[note 23] As with all HR databases, extracts are taken at a fixed point in time, to ensure consistency of reporting. However the database itself is dynamic and where upDates to the database are made late, subsequent to the taking of the extract, these upDates will not be reflected in figures produced by   the extract. For this reason, HR data are unlikely to be precisely accurate.
+[note 24] All staff have gender, full time/part time status and age assigned, and so representation rates are the percentage of all staff in post falling within a specified category. Ethnicity, disability, sexual orientation and religion/belief are self-declared fields, and are optional to complete. Representation   rates for self-declared fields are the percentage of staff making a specific declaration, out of all known declarations, excluding those who chose not to declare or who did not respond. This is the best estimate of the actual representation within the population.
+[note 25] Self-reporting rates are provided for ethnicity, disability, sexual orientation and religion, which are self-reported optional fields, to show the percentage of all staff in post who have made a declaration, as opposed to those who have not reported or indicated they do not wish to report. Representation rates show the percentage within a specified category out of all those who have self-reported (i.e. excluding those who have not responded or those who have indicated they do not wish to self-report). Where self-reporting rates are below 60%, representation   rates are not provided as the level of reporting has not reached the minimum threshold for representation rates to have any validity. Even where representation rates are presented, these should always be considered in conjunction with self-reporting rates when making any interpretation.
+[note 26] Movements due to machinery of Government changes or due to staff transferring to or from the private sector as a result of changes in the management of establishments are not included in these tables.
+[note 27] Permanent staff are those with a permanent contract of employment with HMPPS.
+[note 28] The leavers figures do not include voluntary early departure or redundancy.
+[note 29] Directly employed healthcare staff have transferred employment to other employers over the past five years. These cannot be easily excluded as for other structural changes but result in unrealistically high leaving rates for these groups.
+[note 30] The figures here represent staff in NPS grades. A small number of staff in NPS grades work in other parts of HMPPS and a small number of staff in the NPS do not have NPS grades. These figures therefore do not represent the total recruitment into and leavers from the NPS.
+[note 31] Volunary Exits can be offered where the organisation wishes to reduce staff numbers by offering an early exit scheme or an early exit package to an individual. There is no compulsion on individuals to accept the offer.
+[note 32] Since January 2017, information regarding dismissals as a result of medical inefficiencies have been recorded as unsatisfactory attendances. Therefore, these categories have been combined.
+[note 33] Public sector transfers include healthcare staff transferring to NHS employment. These staff continue to work within establishments but under a different employer.
+[note 34] The 'Other' category largely consists of fixed-term appointments coming to the end of their contract. Reductions in this category reflect the fall in recruitment since 2009, including fixed-term staff.
+[note 35] The conversions from existing staff refer to existing HMPPS staff who applied for and were appointed to prison officer jobs. They are neither leavers nor joiners but do contribute to the  total number of new officers appointed.
+[note 36] Average working days lost per member of staff is calculated as number of working days lost to sickness divided by the average number of full time equivalent staff for a year.    AWDL may not match previous releases as average number of fte staff now excluding all staff who were not an active member of the workforce and receiving pay on the relevant date from our staff in post counts.
+[note 37] In a small number of cases a member of staff joined HMPPS while on sickness absence from elsewhere and the absence could not be allocated to a specific HMPPS unit.
+[note 38] The 'Other' category of sickness is used for absences that have a reason recorded but are in a less common absence category.
+[note 39] Absences are categorised according to International Classification of Diseases, which is an approach used across the civil service.
+[note 40] The 'Symptons Ill-Defined' category is used for absences where a reason is provided but could not be categorised, for example 'Operation non-specific'. On migration of data to the Single Operating Platform a large number of symptoms ill-defined entries were reclassified as unknown.
+[note 41] The 'Unknown' category is used for absences where no reason was recorded. Unknowns are not included in the percentage calculations.
+[note 42] HMP Birmingham (as of 1st July 2019) and HMP Lowdham Grange (as of 1st August 2024),  have come under public ownership. Sickness data has therefore only been recorded for dates on, or after they moved. Individuals who had ongoing sickness following the transition to public ownership, have had their sickness start dates set to the date of transfer. This will have some impact on calculations for certain long-term sickness cases.
+[note 43] HMPPS Prison Group Director (PGD) and Regional Probation Director (RPD) roles are classified as a “Band 12” grade and are included in the operational “Bands 9-12 / Senior Managers” category instead of “Senior Civil Servant”
+[note 44] Data may not match previous releases as we are now excluding all staff who were not an active member of the workforce and receiving pay on the relevant date from our staff in post counts. Please see the Technical Guide for more information.
+[note 45] Prior to April 2023 not all staff who transferred from other government departments were included in the joiners figures, however, all joiners are included from April 2023 onwards. Please see the Technical Guide for more details.
+[note 46] AWDL data may not match previous releases as the average staff in post figures will now be excluding all staff who were not an active member of the workforce and receiving pay on the relevant date from our staff in post counts. Please see the Technical Guide for more details.
+[note 47] In June 2024 Cookham Wood was repurposed as an adult prison for category C males. It is now allocated to this category for all historical data as well.
+[note 48] In terms of the Gender data presented, the MoJ HR system holds demographic data on staff.  In the HR system there is a database field called Gender. The Gender field can only be one of two options – male or female.     It is filled in for all staff when new staff records are created using details to confirm identity (i.e. name, date of birth, address) from official documentation supplied by the successful job applicant. However, it is possible for this information to be updated in line with departmental policy. The Office for Statistics Regulation recognises that this is an evolving area both for society and statistics, so advice and guidance is likely to change over time.
+[note 49] On the HR reporting system, Hollesley Bay and Warren Hill prisons have been merged into a single prison called Hollesley.
+[c] Figure is suppressed. Representation rates are suppressed where self-reporing rates are below 60%. Leaving, resignation and sickness rates are suppressed where the base population is less than 30. Values of 2 or fewer or other values which would allow values of 2 or fewer to be derived by subtraction are also suppressed. Low numbers are suppressed to prevent disclosure in accordance with the Data Protection Act, 1998.
+[p] Figures for the most recent 12 months are Provisional and may be subject to change in subsequent publications.
+[na] not applicable

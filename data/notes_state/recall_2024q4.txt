@@ -1,0 +1,48 @@
+Prison Licence Recalls: October to December 2024
+Publication details
+These tables are published as part of the 'Offender Management Statistics Quarterly' publication by the Ministry of Justice.
+Link to 'Offender Management Statistics Quarterly' (opens in a new window)
+Definitions and measurements
+Further details of the terminology used to report prison population statistics can be found in the definitions section for population in the 'Guide to Offender Management Statistics' published alongside these tables.
+Geographic coverage
+All tables are for England and Wales.
+Data sources
+The figures in these tables are drawn from the Public Protection Unit Database (PPUD).
+Data quality
+The figures in these tables have been drawn from administrative IT systems which, as with any large scale recording system, are subject to possible errors with data entry and processing.
+Symbols used
+[x] Not available
+[c] Confidential (disclosure control)
+[rev] Revision
+[z] Not applicable
+Use of notes
+Some tables refer to notes. When notes are mentioned, the note marker is presented in square brackets. The note text can be found in the 'Notes' table.
+Disclosure control
+Where necessary, [c] has been used to suppress values of one or two to prevent the disclosure of individual information. Further disclosure control may be completed where this alone is not sufficient.
+Publication schedule
+This release was published on Thursday 24 April 2025 at 9:30am, covering the quarter October to December 2024.
+The next quarterly release will be published on Thursday 31 July 2025 at 9:30am, and will cover the quarter January to March 2025.
+Offender Management Statistics Quarterly is released every three months on the last working Thursday of January, April, July, and October.
+Media enquiries
+Contact information for media enquiries can be found on the GOV.UK website.
+Link to 'GOV.UK media enquiries' (opens in a new window)
+Non-media enquiries
+Email: OMSQ-SiC-publications@justice.gov.uk
+Copyright
+Crown copyright Produced by the Ministry of Justice
+Notes
+This worksheet contains one table.
+Link to Contents tab
+Note Description
+[note 1] HDC recalls refer to recalls during home detention curfew period
+[note 2] In June 2021, Community Rehabilitation Companies (CRCs) were combined with the National Probation Service (NPS) into one Probation Service (PS). We use "National probation" to refer to both NPS and PS.
+[note 3] Regional grouping under the new Probation Service replaces the old regional grouping.
+[note 4] There is an emergency process for all indeterminate recalls.
+[note 5] Offenders are returned in target time if the end-to-end process takes less than 74 hours for emergency process recalls and less than 144 hours (6 days) for standard process recalls.
+[note 6] Probation Trusts were replaced with National Probation Service/Community Rehabilitation Companies before the Offender Rehabilitation Act 2014 introduced recalls for sentences of less than 12 months.
+[note 7] From June 2021, classification of offences is based on Home Office's counting rules for recorded crime.
+Home Office counting rules for recorded crime -data.gov.uk (opens in a new window)
+[note 8] Recall reasons do not sum to the total number of recalls as more than one reason can be recorded against each recall.
+[note 9] Some reasons previously included in the 'other' category started to be published separately from July-September 2018. As a result, the 'other' category from this time onwards is not comparable with previous figures.
+[note 10] Offenders serving Indeterminate and Extended Determinate sentences are not eligible for a fixed term recall. Offenders serving sentences of less than 12-months are eligible to receive a fixed term recall of 14-days.Offenders serving sentences of 12-months or more are eligible to receive a fixed term recall of 28-days.
+[note 11] An individual may be counted multiple times if recalled repeatedly in a given quarter.

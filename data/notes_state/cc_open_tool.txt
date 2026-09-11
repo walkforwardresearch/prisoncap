@@ -1,0 +1,23 @@
+Average age of open caseload at the Crown Court ("One Crown")
+Overview:
+This pivot table contains data on an offence group breakdown for data found in tables O1, O2 and O3 in the CCSQ main tables. 
+These statistics include data on the average and grouped duration of open cases at the Crown Court in England and Wales by receipt type, offence group, LCJB area, region, plea, year and quarter.
+Options available for filtering:
+Year Select the relevant year(s).
+Quarter Select the relevant quarter(s). The quarters relate to calendar years so Q1 (Mar), Q2 (Jun), Q3 (Sep) and Q4 (Dec).
+Receipt type Select the type of receipt. 'For trial' cases are further broken down by remand status.
+Offence group Select a relevant offence group(s).  When a case involves more than one offence the most serious offence is selected to represent the case.  This is done by choosing the offence which can incur the largest maximum sentence at each jurisdiction.  Where any offence is indictable only this will be prioritised over other offence types, e.g., triable-either-way.  If no offences on the indictment(s) could be determined or there was insufficient data recorded, the case will be classified as "Unknown".
+Geographic area Select the geographic area(s) of interest.
+Case Volume of total cases which are open at the end of reporting period.
+Valid case Volume of cases who have required timeliness information and has informed the estimates.
+Median Median estimate of duration (days) from the receipt of a case to the end of the reporting period.
+Mean Mean estimate of duration (days) from the receipt of a case to the end of the reporting period.
+Grouped duration Grouped duration from receipt to end of reporting period.
+Notes:
+1) Open case duration refers to the time between the receipt of a case in the Crown Court and the end of the reporting period, for example counts in Q3 2020 relate to cases which are open as at the end of September 2020.
+2) "For trial" cases refers to cases where a defendant has been sent or elected to the Crown Court for trial.  This includes both indictable only offences which must be heard at the Crown Court and triable-either-way which can be heard at either the magistrates’ courts (summarily) or at the Crown Court (on indictment). 
+This includes cases where defendants enter a guilty plea and subsequently do not require a trial.
+3) A case is open where any defendant in a case has any offence without a final result recorded. 
+The estimated counts are a snapshot of cases that are live on the system at a point in time (e.g. as at 31st December) - it is not a calculation based on receipts and disposals.
+The open caseload excludes cases where one or more defendants is absent and has a live bench warrant for arrest.  Once the bench warrant has been executed and the defendant(s) have been bought before the court, the case will be included in the open counts.
+4) Valid open cases excludes cases that have had bench warrant issued on the case, at any point prior to the open date.

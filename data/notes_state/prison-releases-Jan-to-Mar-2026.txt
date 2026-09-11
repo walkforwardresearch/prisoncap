@@ -1,0 +1,62 @@
+Prison Releases: January to March 2026
+Publication details
+These tables are published as part of the 'Offender Management Statistics Quarterly' publication by the Ministry of Justice.
+Link to 'Offender Management Statistics Quarterly' (opens in a new window)
+Definitions and measurements
+Further details of the terminology used to report prison releases statistics can be found in the definitions section for releases in the 'Guide to Offender Management Statistics' published alongside these tables.
+Geographic coverage
+All tables are for England and Wales.
+Data sources
+The majority of the figures in these tables are drawn from the Prison National Offender Management Information System (Prison NOMIS) and Digital Prisons Services (DPS). Any additional data sources are listed above the relevant tables.
+Data quality
+The figures in these tables have been drawn from administrative IT systems which, as with any large-scale recording system, are subject to possible errors with data entry and processing.
+Occasionally we identify issues with previously published figures. Revised figures will be marked with [rev]. A revised marker in a column heading indicates that some or all of the values in that column have been updated.
+Data quality improvement work in 2023 to 2025 may have resulted in small unmarked changes to previously published figures.
+Symbols used
+[x] Not available
+[c] Confidential (disclosure control)
+[z] Not applicable
+[rev] Revised figure(s)
+Percentage changes
+A [z] symbol has been used in cases with one (or both) comparator value(s) less than 50.
+Use of notes
+Some tables refer to notes. When notes are mentioned, the note marker is presented in square brackets. The note text can be found in the 'Notes' table.
+Disclosure control
+Where necessary, [c] has been used to suppress values of one or two to prevent the disclosure of individual information. Further disclosure control may be completed where this alone is not sufficient. This could include the secondary suppression of zero values.
+Publication schedule
+This release was published on Thursday 30 July 2026 at 9:30am, and covers prison releases data for the quarter January to March 2026.
+The next quarterly release will be published on Thursday 29 October 2026 at 9:30am, and will cover prison releases data for the quarter April to June 2026.
+Offender Management Statistics Quarterly is released every three months on the last working Thursday of January, April, July, and October.
+Additional resources
+Information about establishment predominant function and designation is published by HM Prison and Probation Service in 'Prisons and their resettlement providers'.
+Link to 'Prisons and their resettlement providers' (opens in a new window)
+Information about the youth estate is available in 'Youth justice statistics' and the 'Youth custody report'.
+Link to 'Youth justice statistics' (opens in a new window)
+Link to 'Youth custody report' (opens in a new window)
+Media enquiries
+Contact information for media enquiries can be found on the GOV.UK website.
+Link to 'GOV.UK media enquiries' (opens in a new window)
+Non-media enquiries
+Email: OMSQ-SiC-publications@justice.gov.uk
+Copyright
+Crown copyright (produced by the Ministry of Justice)
+Notes
+This worksheet contains one table.
+Link to Contents tab
+Note Description
+[note 1] A release is defined as a release from prison where the prisoner has finished serving the custodial term of their sentence(s) and excludes: civil non-criminal prisoners; persons committed to custody for non-payment of a fine; releases to hospital; releases following recall after release on licence, except where the offender has committed a new offence and is committed to custody for a new sentence and the subsequent release date falls after the sentence expiry date of the original sentence, or where upon release the offender is subject to the licence condition of the new custodial sentence.
+[note 2] From 10 September 2024, certain prisoners serving a 'standard determinate sentence' (with a 50% conditional release point) can be released at the 40% point of their sentence subject to eligibility criteria (commonly referred to as SDS40). SDS40 comprised two tranches of releases starting on 10 September 2024 and 22 October 2024. There were bulk releases on the first day of each tranche, but releases for both tranches continued after these dates.
+[note 3] The time served including remand is calculated as the difference between the date of initial entry to prison and the date of release. For offenders who are bailed as part of the pre-sentence process this can include time in the community: for example, for an individual who is held on untried remand and is then bailed between conviction and sentencing, the 'time served' presented here will include their time on bail. Similarly, for individuals who are bailed but then breach their bail conditions and are then remanded into custody, their 'time served' may include their time on bail. As such, these figures represent an approximation (overestimate) of time served in prison and on occasion the average time served figure may appear greater than the average sentence length figure.
+[note 4] In cases where an individual has been released following a recall to custody and where they were sentenced to an additional offence committed whilst on licence, the date of initial entry will be their initial entry into prison for the original offences committed. Their date of release will be the date of release for the second set of offences they committed whilst on licence. Therefore, for individuals released from a sentence following a further offence on recall, their time served calculation may include a period on licence in the community.
+[note 5] On 17 June 2024 a policy change came into effect which expanded HDC eligibility to include those serving certain determinate sentences of 4 years or more.
+[note 6] The population figures are as of the last working Friday in the period.
+[note 7] The data in this table is produced by matching HDC releases data against recall data in order to get the figures for HDC recalls. Because an HDC release can be recalled within 365 days of HDC release, recalls could occur up to four quarters after the release quarter.
+[note 8] Before 3 June 2025, HDC had a maximum duration of 180 days meaning an HDC release could be recalled up to a maximum of two quarters after the release quarter. Effective from 3 June 2025, HDC was expanded to a maximum duration of 365 days meaning an HDC release could be recalled up to a maximum of four quarters after the release quarter. Due to this change, the reporting period has shifted from a lag of two quarters to a lag of four quarters.
+[note 9] Recall reasons give the number of individuals within the three recall reasons groupings. As a recall might have more than one reason for being recalled, the total of recall reasons do not sum to the total number of recalls as more than one reason can be recorded against each recall.
+[note 10] All of the incidences of ROTL presented in these tables are based on unaccompanied ROTL, where a prisoner is allowed to leave the prison estate for a short time without the need for an escort. Cases of 'accompanied' ROTL are not included here.
+[note 11] Custody type is based on the prisoner’s custody type at the point of their first ROTL of the quarter.
+[note 12] One individual may be released on temporary licence in more than one quarter of the year. Users should therefore not sum four quarters of data for the annual number of prisoners released on temporary licence. Annual figures are provided in the annual releases tables, typically published in April of each year.
+[note 13] The 'Other custody types' category includes fine defaulters and non-criminal prisoners.
+[note 14] Not all temporary release failures are recorded on central administrative systems. Those that are not recorded centrally are more likely to be low-level failures including, for example, returning with unauthorised possessions and failing alcohol meter.
+[note 15] Data for ROTL failures are drawn from the HMPPS Incident Reporting System (IRS). Following an improvement to our data flow, we are better able to map ROTL failures to sentence types. This has enabled us to include 'Recalls' in our ROTL failures by sentence type breakdown, which has led to a small reduction in the 'Determinate Sentences' group, where they were previously mapped, compared to what has been published previously. ('Recall' cases account for <4% of total ROTL failures between 2016 and 2025). Further work is underway to explore our enhanced data and we will inform users of any additional improvement work as it arises. Additional information on ROTL failures to March 2026, including type of failure, can be found in Chapter 1 of the HMPPS Annual Digest: https://www.gov.uk/government/collections/prison-and-probation-trusts-performance-statistics
+[note 16] One individual may be transferred in the prison estate in more than one quarter of the year. Users should therefore not sum four quarters of data for the annual number of prisoners transferred. Annual figures are provided in the annual releases tables, typically published in April of each year.
