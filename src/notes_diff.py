@@ -51,12 +51,11 @@ def canonical_key(path):
 def main(raw_dir, state_dir):
     os.makedirs(state_dir, exist_ok=True)
     changed = 0
-    files = [f for f in glob.glob(f'{raw_dir}/**/*', recursive=True) if f.lower().endswith(('.ods', '.xlsx', '.xls'))]
-    latest = {}
-    for f in files:                                  # newest edition of each publication wins
-        k = canonical_key(f)
-        if k not in latest or os.path.getmtime(f) > os.path.getmtime(latest[k]):
-            latest[k] = f
+    difflog = open(os.path.join(state_dir, '_last_diff.txt'), 'w', encoding='utf-8')
+    # weekly and monthly bulletins carry no Notes sheet; skipping them keeps the gate to seconds
+    files = [f for f in glob.glob(f'{raw_dir}/**/*', recursive=True) if f.lower().endswith(('.ods', '.xlsx', '.xls'))
+             and not any(seg in f.replace('\\', '/') for seg in ('/weekly/', '/monthly/', '/weekly_doc_txt/'))]
+    latest = {os.path.basename(f).rsplit('.', 1)[0]: f for f in files}   # one state file per source file
     for key, f in sorted(latest.items()):
         txt = notes_text(f)
         if txt is None:
@@ -67,13 +66,16 @@ def main(raw_dir, state_dir):
             if old != txt:
                 changed += 1
                 print(f'\n=== NOTES CHANGED: {os.path.basename(f)} ===')
+                difflog.write(f'\n=== NOTES CHANGED: {os.path.basename(f)} ===\n')
                 for line in difflib.unified_diff(old.splitlines(), txt.splitlines(), lineterm='', n=0):
                     if line.startswith(('+', '-')) and not line.startswith(('+++', '---')):
-                        print('  ' + line[:220])
+                        print('  ' + line[:220]); difflog.write(line + '\n')
+                open(sp + '.prev', 'w', encoding='utf-8').write(old)
         else:
             print(f'notes recorded for the first time: {os.path.basename(f)} ({len(txt.splitlines())} lines)')
         open(sp, 'w', encoding='utf-8').write(txt)
-    print(f'\n{len(latest)} publications checked, {changed} with changed notes')
+    difflog.close()
+    print(f'\n{len(latest)} source files checked, {changed} with changed notes; diff kept in {state_dir}/_last_diff.txt')
     return 2 if changed else 0
 
 
